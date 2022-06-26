@@ -1,7 +1,7 @@
 # ONNX YOLOv6 Object Detection
  Python scripts performing object detection using the YOLOv6 model in ONNX.
 
-![!YOLOv6 detection video](https://github.com/Gaurav14cs17/YOLOV6/doc/img/yolov6s_video.gif)
+![!YOLOv6 detection video](https://github.com/Gaurav14cs17/YOLOV6/blob/main/doc/img/yolov6s_video.gif)
 
 # Important
 - About the YOLOv6 name: https://github.com/meituan/YOLOv6/blob/main/docs/About_naming_yolov6.md
@@ -46,4 +46,4 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
 # References:
 * YOLOv6 model: https://github.com/meituan/YOLOv6
 * YOLOv5 model: https://github.com/ultralytics/yolov5
-* https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection
+* ONNX Model : https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection
