@@ -47,5 +47,4 @@ The original Pytorch model can be found in this repository: [YOLOv6 Repository](
 
 # References:
 * YOLOv6 model: https://github.com/meituan/YOLOv6
-* YOLOv5 model: https://github.com/ultralytics/yolov5
 * ONNX Model : https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection
