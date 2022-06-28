@@ -1,6 +1,6 @@
 # ONNX YOLOv6 Object Detection
  Python scripts performing object detection using the YOLOv6 model in ONNX. 
- ![!YOLOv6 Model]  (https://github.com/Gaurav14cs17/YOLOV6/blob/main/doc/img/Slide1.jpg)
+ ![!YOLOv6 Model](https://github.com/Gaurav14cs17/YOLOV6/blob/main/doc/img/Slide1.jpg)
  
  16 FPS on cpu INTEL i7
 
