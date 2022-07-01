@@ -14,12 +14,7 @@
  * For ONNX, if you have a NVIDIA GPU, then install the **onnxruntime-gpu**, otherwise use the **onnxruntime** library.
  * Additionally, **pafy** and **youtube-dl** are required for youtube video inference.
  
-# Installation
-```
-git clone https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection.git
-cd ONNX-YOLOv6-Object-Detection
-pip install -r requirements.txt
-```
+
 ### ONNX Runtime
 For Nvidia GPU computers:
 `pip install onnxruntime-gpu`
