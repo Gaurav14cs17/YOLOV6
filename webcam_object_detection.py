@@ -3,7 +3,8 @@ import  time
 from YOLOv6 import YOLOv6
 
 # Initialize the webcam
-cap = cv2.VideoCapture(0)
+video_path = 0
+cap = cv2.VideoCapture(video_path)
 
 width = cap.get(cv2.CAP_PROP_FRAME_WIDTH)  # float
 height = cap.get(cv2.CAP_PROP_FRAME_HEIGHT)  # float
